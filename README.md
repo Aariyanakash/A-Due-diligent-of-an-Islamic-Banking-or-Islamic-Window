@@ -75,7 +75,7 @@ international levels.
 
 **2 BUSINESS MODEL**
 
-![](./media/image3.PNG)![](./media/image4.PNG)
+![](./media/image4.PNG)![](./media/image3.PNG)
 
 **3 Products and Services:**
 
