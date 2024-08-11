@@ -76,6 +76,7 @@ international levels.
 **2 BUSINESS MODEL**
 
 ![](./media/image3.PNG)![](./media/image4.PNG)
+
 **3 Products and Services:**
 
 **3.1 The Local Market:**
@@ -212,8 +213,7 @@ the credit risk team\'s leadership at the credit risk department, which
 prepares reports. Submit to the bank\'s Board of Directors, upper
 management, and head units.
 
-![](./media/image5.PNG){width="6.1258552055993in"
-height="1.4377001312335957in"}
+![](./media/image5.PNG)
 
 The following three criteria must be examined in order to estimate
 credit risk related to funds and client facilities:
@@ -236,8 +236,7 @@ movements, as well as levels of sensitivity to market rates or prices,
 such as return rates Exchange rates and stock instruments are examples
 of financial instruments.
 
-![](./media/image6.PNG){width="6.261290463692038in"
-height="1.9377701224846895in"}
+![](./media/image6.PNG)
 
 -   Foreign currency threat: The institution is vulnerable to currency
     fluctuations. variations in foreign currency rates of exchange and
@@ -258,7 +257,7 @@ obligations when they become due and replacing funds once they are
 withdrawn. Failure to meet responsibilities for repaying depositors and
 fulfil finance commitments could be the result.
 
-![](./media/image7.PNG){width="6.268055555555556in" height="1.84375in"}
+![](./media/image7.PNG)
 
 The Bank\'s Finance Department manages the bank\'s financial risk by
 maintaining a portfolio that includes highly marketable assets that may
@@ -282,8 +281,7 @@ engaging with the bank.
 To maintain an adequate capital basis that will support the company\'s
 growth.
 
-![](./media/image8.PNG){width="6.268055555555556in"
-height="1.8604166666666666in"}
+![](./media/image8.PNG)
 
 The bank\'s management monitors capital adequacy & the use of the
 required capital on a daily basis in accordance with the requirements of
