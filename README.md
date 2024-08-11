@@ -76,8 +76,7 @@ international levels.
 **2 BUSINESS MODEL**
 
 ![](./media/image3.PNG){width="4.125in"
-height="6.002913385826772in"}![](./media/image4.PNG){width="4.941071741032371in"
-height="5.977083333333334in"}
+height="6.002913385826772in"}![](./media/image4.PNG)
 
 **3 Products and Services:**
 
