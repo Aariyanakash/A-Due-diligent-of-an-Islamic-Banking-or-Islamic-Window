@@ -1,36 +1,5 @@
-![Shape Description automatically generated with medium
-confidence](./media/image1.png){width="6.268055555555556in"
-height="1.3979166666666667in"}
-
-![](./media/image2.png){width="6.268055555555556in"
-height="1.0819444444444444in"}
-
-**Essay / Assignment Title: A Due diligent (commercial) of an Islamic
+**A Due diligent of an Islamic
 Banking or Islamic Window**
-
-**Programme title: MSc Finance and Investments**
-
-**Name: Arun Akash Jawahar**
-
-**Student Id: Q1036635**
-
-**Year: October 2022**
-
-**Statement of compliance with academic ethics and the avoidance of
-plagiarism**
-
-I honestly declare that this dissertation is entirely my own work and
-none of its part has been copied from printed or electronic sources,
-translated from foreign sources and reproduced from essays of other
-researchers or students. Wherever I have been based on ideas or other
-people texts I clearly declare it through the good use of references
-following academic ethics.
-
-Name and Surname (Capital letters):
-
-ARUN AKASH JAWAHAR
-
-Date: 13/10/2023
 
 **ABSTRACT**
 
@@ -46,45 +15,6 @@ the Sharia governance of the bank is detailed and discussed. Finally,
 the regulatory framework and the rules of the jurisdiction in which the
 bank is operating is also explained.
 
-**TABLE OF CONTENT**
-
-  -----------------------------------------------------------------------
-  S.NO       Particulars
-  ---------- ------------------------------------------------------------
-  1          Islamic bank
-
-  1.1        Introduction
-
-  2          Business Model
-
-  3          Products and Services
-
-  3.1        The Local Market
-
-  3.2        Foreign Investments
-
-  4          Risk Management
-
-  4.1        Financial Risk Management
-
-  4.1.1      Credit Risk
-
-  4.1.2      Market risk
-
-  4.1.3      Liquidity risk
-
-  4.1.4      Capital Management
-
-  5          Corporate Governance
-
-  6          Sharia Governance
-
-  7          Regulatory Framework
-
-  8          Conclusions
-
-  9          References
-  -----------------------------------------------------------------------
 
 **1 Islamic bank**
 
